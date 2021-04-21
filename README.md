@@ -2,9 +2,7 @@
 
 This is a basic hello world program. It was created to demonstrate the integration of the Visual Studio Code IDE, github, and python together. I created this project to enhance my skillset as a software engineer.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/pZpcqHcp2zY)
 
 # Development Environment
 
